@@ -14,7 +14,7 @@
   4. Detailed checking on the language used
   5. Verified spelling/grammer errors
 
-## 📊 Output
+##  Sample Email
 
 **From:** `authenticationmail@trust.ameribank7.com`  
 **To:** `johnsmith@email.com`  
@@ -40,7 +40,7 @@ There has been a recent login to your bank account from a new device:
 👉 [https://trust.ameribank7.com/reset-password](https://trust.ameribank7.com/reset-password)
 
 ---
-
+## 📊 Output
   SENDER EMAIL ADDRESS
   - The sender email address (trust.ameribank7.com) is not an official domain of Bank of America. Official domain of Bank of America "bankofamerica.com". 
 
