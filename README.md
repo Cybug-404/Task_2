@@ -17,7 +17,7 @@
 ## 📊 Output
 
 ### **SAMPLE EMAIL** ###
---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 **From:** `authenticationmail@trust.ameribank7.com`  **To:** `johnsmith@email.com`  
 **Subject:** *A new login to your bank account*
 
