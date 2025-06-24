@@ -15,33 +15,81 @@
   5. Verified spelling/grammer errors
 
 ## 📊 Output
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sample Phishing Email</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: auto;
+      background-color: #f9f9f9;
+      padding: 20px;
+      color: #333;
+    }
+    .header {
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .section {
+      margin-top: 20px;
+    }
+    .email-body {
+      background-color: #fff;
+      padding: 20px;
+      border-left: 4px solid #d9534f;
+      box-shadow: 0 0 8px rgba(0,0,0,0.05);
+    }
+    .bank-logo {
+      width: 180px;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
 
-### **SAMPLE EMAIL** ###
----------------------------------------------------------------------------------------------
-**From:** `authenticationmail@trust.ameribank7.com`  **To:** `johnsmith@email.com`  
-**Subject:** *A new login to your bank account*
+  <h2>📧 SAMPLE EMAIL</h2>
+  <hr>
 
----
+  <div class="header">
+    <strong>From:</strong> <code>authenticationmail@trust.ameribank7.com</code><br>
+    <strong>To:</strong> <code>johnsmith@email.com</code><br>
+    <strong>Subject:</strong> <em>A new login to your bank account</em>
+  </div>
 
-![Bank of America Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bank_of_America_logo.svg/320px-Bank_of_America_logo.svg.png)  
-### **Bank of America**
+  <div class="section email-body">
+    <img class="bank-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bank_of_America_logo.svg/320px-Bank_of_America_logo.svg.png" alt="Bank of America Logo">
+    <h3>Bank of America</h3>
 
----
+    <p>Dear account holder,</p>
 
-**Dear account holder,**
+    <p>There has been a recent login to your bank account from a new device:</p>
+    <ul>
+      <li><strong>IP address:</strong> <code>192.168.0.1</code></li>
+      <li><strong>Location:</strong> Miami, Florida</li>
+    </ul>
 
-There has been a recent login to your bank account from a new device:
+    <p><strong>4 new transactions have been made with this account since your last login.</strong></p>
 
-- **IP address:** `192.168.0.1`  
-- **Location:** Miami, Florida
+    <p><strong>If this was not you, please reset your password immediately with this link:</strong><br>
+    👉 <a href="https://trust.ameribank7.com/reset-password" target="_blank">https://trust.ameribank7.com/reset-password</a></p>
 
-**4 new transactions have been made with this account since your last login.**
+    <p>Thank you,<br>
+    <strong>Bank America</strong>.</p>
+  </div>
 
-**If this was not you, please reset your password immediately with this link:**  
-[https://trust.ameribank7.com/reset-password](https://trust.ameribank7.com/reset-password)
+</body>
+</html>
 
-Thank you,  
-**Bank America**
 --------------------------------------------------------------------------------------------
 
 
