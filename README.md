@@ -29,7 +29,7 @@
 
 **Dear account holder,**
 
-There has been a recent login to your bank account from a new device:
+There has been a recent login to your bank account from a new dvice:
 
 - **IP address:** `192.168.0.1`  
 - **Location:** Miami, Florida
