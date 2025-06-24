@@ -17,9 +17,8 @@
 ## 📊 Output
 
 ### **SAMPLE EMAIL** ###
-#############################################################################################################################################################
-**From:** `authenticationmail@trust.ameribank7.com`  
-**To:** `johnsmith@email.com`  
+--------------------------------------------------------------------------------------------
+**From:** `authenticationmail@trust.ameribank7.com`  **To:** `johnsmith@email.com`  
 **Subject:** *A new login to your bank account*
 
 ---
@@ -49,7 +48,9 @@ There has been a recent login to your bank account from a new device:
 
 Thank you,  
 **Bank America**
-#############################################################################################################################################################
+--------------------------------------------------------------------------------------------
+
+
   SENDER EMAIL ADDRESS
   - The sender email address (trust.ameribank7.com) is not an official domain of Bank of America. Official domain of Bank of America "bankofamerica.com". 
 
