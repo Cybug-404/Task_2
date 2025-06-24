@@ -35,16 +35,10 @@ There has been a recent login to your bank account from a new device:
 - **IP address:** `192.168.0.1`  
 - **Location:** Miami, Florida
 
----
-
-**⚠️ 4 new transactions have been made with this account since your last login.**
-
----
+**4 new transactions have been made with this account since your last login.**
 
 **If this was not you, please reset your password immediately with this link:**  
-👉 [https://trust.ameribank7.com/reset-password](https://trust.ameribank7.com/reset-password)
-
----
+[https://trust.ameribank7.com/reset-password](https://trust.ameribank7.com/reset-password)
 
 Thank you,  
 **Bank America**
