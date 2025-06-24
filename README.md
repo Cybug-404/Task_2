@@ -16,15 +16,14 @@
 
 ## 📊 Output
   SENDER EMAIL ADDRESS
-    The sender email address (trust.ameribank7.com) is not an official domain of Bank of America. Official domain of Bank of America "bankofamerica.com". 
+  - The sender email address (trust.ameribank7.com) is not an official domain of Bank of America. Official domain of Bank of America "bankofamerica.com". 
 
   EMAIL HEADERS
-    Here the sender mail address and the reply-to are same.Return-Path:(<authenticationmail@trust.ameribank7.com>) exact copy of the sender, as the sender domain is not official the repy-to also re-directing to the attacker. The email source hostname is malicious.
+  - Here the sender mail address and the reply-to are same.Return-Path:(<authenticationmail@trust.ameribank7.com>) exact copy of the sender, as the sender domain is not official the repy-to also re-directing to the attacker. The email source hostname is malicious.
 
   SUSPICIOUS LINK
-    Malicious link on the body of the email that to reset password using the link given. The link not seem to have the domain name or anything related to the Bank of America, making it suspicious.
+  - Malicious link on the body of the email that to reset password using the link given. The link not seem to have the domain name or anything related to the Bank of America, making it suspicious.
   
   LANGUAGE
-    The language used in this context is highly unprofessional. Urges the user to reset their password immediately. There is a clearly visible spelling mistake in the body of the email, such as 'divice' instead of 'device', which further indicates it is not a legitimate message.
+  - The language used in this context is highly unprofessional. Urges the user to reset their password immediately. There is a clearly visible spelling mistake in the body of the email, such as 'divice' instead of 'device', which further indicates it is not a legitimate message.
     
-## 🧠 Learnings
