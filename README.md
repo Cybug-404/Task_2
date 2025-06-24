@@ -15,6 +15,41 @@
   5. Verified spelling/grammer errors
 
 ## 📊 Output
+
+### **SAMPLE EMAIL** ###
+
+**From:** `authenticationmail@trust.ameribank7.com`  
+**To:** `johnsmith@email.com`  
+**Subject:** *A new login to your bank account*
+
+---
+
+![Bank of America Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bank_of_America_logo.svg/320px-Bank_of_America_logo.svg.png)  
+### **Bank of America**
+
+---
+
+**Dear account holder,**
+
+There has been a recent login to your bank account from a new device:
+
+- **IP address:** `192.168.0.1`  
+- **Location:** Miami, Florida
+
+---
+
+**⚠️ 4 new transactions have been made with this account since your last login.**
+
+---
+
+**If this was not you, please reset your password immediately with this link:**  
+👉 [https://trust.ameribank7.com/reset-password](https://trust.ameribank7.com/reset-password)
+
+---
+
+Thank you,  
+**Bank America**
+
   SENDER EMAIL ADDRESS
   - The sender email address (trust.ameribank7.com) is not an official domain of Bank of America. Official domain of Bank of America "bankofamerica.com". 
 
